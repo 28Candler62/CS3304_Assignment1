@@ -1,9 +1,11 @@
 # John Candler
 # CS 3304 Assignment 1
 #
-# Based on: https://bytes.usc.edu/cs104/wiki/makefile
+# * https://github.com/28Candler62/CS3304_Assignment1
 #
-# Make file (WINDOWS 11):
+# Compiler command: NA
+# ## makefile (WINDOWS 11) ##
+# Based on: https://bytes.usc.edu/cs104/wiki/makefile
 
 
 COMPILER=g++
