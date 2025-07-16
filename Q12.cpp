@@ -1,7 +1,10 @@
-// John Candler
-//
-// Compiler command:
-// g++ -Wall -g Q12.cpp -o Q12 && Q12.exe
+/* John Candler
+ * CS3304 Assignment 1
+ *
+ * https://github.com/28Candler62/CS3304_Assignment1
+ * Compiler command:
+ * g++ -Wall -g Q12.cpp -o Q12 && Q12.exe
+*/
 
 
 
