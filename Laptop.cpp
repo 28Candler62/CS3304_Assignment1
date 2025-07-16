@@ -1,13 +1,16 @@
-#include "Laptop.h"
-#include <iostream>
-
-/*
- * John Candler
- * Assignment 1
+/* John Candler
+ * CS3304 Assignment 1
  *
- * Laptop.cpp
+ * https://github.com/28Candler62/CS3304_Assignment1
+ * Compiler command:
+ * see makefile
+ *
+ * ## Laptop.cpp ##
 */
 
+
+#include <iostream>
+#include "Laptop.h"
 
 // -- Explicit-Value Constructor Definition
 Laptop::Laptop(std::string brd, std::string mdl, int yr, double pr, int ram) {
