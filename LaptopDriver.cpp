@@ -1,3 +1,14 @@
+/* John Candler
+ * CS3304 Assignment 1
+ *
+ * https://github.com/28Candler62/CS3304_Assignment1
+ * Compiler command:
+ * see makfile
+ *
+ * ## LaptopDriver.cpp ##
+*/
+
+
 #include <iostream>
 #include <string>
 #include "Laptop.h"
