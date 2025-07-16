@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     // Creating laptop objects
-    Laptop l1("Dell", "XPS 13", 2022, 999.99, 16));
+    Laptop l1("Dell", "XPS 13", 2022, 999.99, 16);
     Laptop l2("HP", "Envy", 2012, 450, -8); // Invalid ram
     Laptop l3("Lenovo", "ThinkPad", 2023, -250, 12); // Invalid price
     Laptop l4("Microsoft", "Surface", 2026, 1750, 32); // Invalid year
